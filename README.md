@@ -114,8 +114,8 @@ Soy un apasionado científico de datos enfocado en **extraer insights valiosos**
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondAnalysIs&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/beyondAnalysIs/nombre-proyecto-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondAnalysIs&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/beyondAnalysIs/nombre-proyecto-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondAnalysIs&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/beyondAnalysIs/Procesamiento_de_Lenguaje_Natural_NLP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyondAnalysIs&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/beyondAnalysIs/Asistente-de-IA-para-consultas-SQL-con-GPT)
 
 </div>
 
